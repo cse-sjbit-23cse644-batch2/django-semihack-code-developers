@@ -18,3 +18,8 @@ tinyhtml5==2.1.0
 weasyprint==68.1
 webencodings==0.5.1
 zopfli==0.4.1
+
+# Added from cse_target for deployment
+psycopg2-binary>=2.9
+gunicorn>=21.0
+python-decouple>=3.8
